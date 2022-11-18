@@ -35,7 +35,7 @@
 - [x] All USB Ports (port mapping performed)
 - [x]  All Sensors (CPU, GPU, NVME, SATA, FANS)
 - [x]  SpeedStep / Sleep / Wake
-- [x]  Wi-Fi and Bluetooth (Fenvi T919)
+- [x]  Wi-Fi and Bluetooth (BCM943602CS)
 - [x] Windows 10 boot from OpenCore
 
 # Ventura 13.0
