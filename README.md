@@ -1,4 +1,7 @@
 # Gigbyte B360m DS3H
+- ！！！注意！！！
+- 使用前请自行修改设备序列号：root > PlatformInfo > System Serial Number
+- 安装前请先清除NVRAM：clearnvram 
 
 # 配置
 
